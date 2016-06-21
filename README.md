@@ -1,9 +1,10 @@
-# Demo Projects
+# Demo Projects and Code Recipes
 
-- [Functional React Routes](functional-react-routes)
-- [Declarative React Routes](declarative-react-routes)
+- **[Functional React Routes](functional-react-routes)** ([tweet](https://twitter.com/koistya/status/745065434450395136))
+- **[Declarative React Routes](declarative-react-routes)** ([tweet](https://twitter.com/koistya/status/745130545504358400))
 - ...
 
+[Feedback](https://github.com/koistya/demos/issues/new) is always welcome! Please retweet if you like any of these recipes :smile:
 
 ### Related Projects
 

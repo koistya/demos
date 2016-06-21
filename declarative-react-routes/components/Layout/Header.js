@@ -20,7 +20,7 @@ class Header extends React.Component {
       <header className="mdl-layout__header" ref="root">
         <div className="mdl-layout__header-row">
           <a className="mdl-layout-title" to="#/" style={{ color: '#fff' }}>
-            Functional React Routes
+            Declarative React Routes
           </a>
           <div className="mdl-layout-spacer"></div>
           <Navigation />
