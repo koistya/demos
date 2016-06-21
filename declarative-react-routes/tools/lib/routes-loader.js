@@ -14,7 +14,7 @@ module.exports = function routes(source) {
     const fetch = route.fetch || {};
     result.push(`  {
     path: '${route.path.replace('\'', '\\\'')}',
-    view: () => System.import('${route.view}'),
+    view: function view() { return System.import('${route.view}'); },
     fetch: {
 ${Object.keys(fetch).map(key => `      ${key}: '${fetch[key].replace('\'', '\\\'')}',\n`)}    },
   },

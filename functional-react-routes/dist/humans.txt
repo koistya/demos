@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Konstantin Tarkus -- @koistya
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    React, Babel, Webpack, Node.js
