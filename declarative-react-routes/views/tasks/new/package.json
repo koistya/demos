@@ -1,0 +1,6 @@
+{
+  "name": "NewTask",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./NewTask.js"
+}

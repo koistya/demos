@@ -1,0 +1,19 @@
+-
+  path: '/'
+  view: './views/home'
+  fetch:
+    commits: 'https://api.github.com/repos/kriasoft/react-starter-kit/commits'
+-
+  path: '/error'
+  view: './views/error'
+-
+  path: '/about'
+  view: './views/about'
+-
+  path: '/tasks/new'
+  view: './views/tasks/new'
+-
+  path: '/tasks/:status(completed|pending)?'
+  view: './views/tasks'
+  fetch:
+    tasks: '/api/tasks?status=$status'

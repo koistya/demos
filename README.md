@@ -1,6 +1,7 @@
 # Demo Projects
 
 - [Functional React Routes](functional-react-routes)
+- [Declarative React Routes](declarative-react-routes)
 - ...
 
 
