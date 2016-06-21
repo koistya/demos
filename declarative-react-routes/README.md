@@ -1,7 +1,7 @@
 # Declarative React Routes
 
 This project demonstrates how to implement declarative routes in React applications where the list
-of routes can be represented in YAML format. For example: 
+of routes can be represented in YAML or JSON format. For example: 
 
 ```yaml
 -
