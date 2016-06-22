@@ -1,8 +1,10 @@
 # Functional React Routes
 
-This project demonstrates how to implement "functional" routes, where each route can be
-represented as an object containing `path` (parametrized string) and `action` (a route handler
-function) properties. For example:
+This project demonstrates how to implement imperative "functional" routes, where each route can be
+represented as a combination of `path` (parametrized string) and `action` (a route handler
+function) properties. This pattern is used in [React Starter Kit](https://github.com/kriasoft/react-starter-kit).
+ 
+Here is an example of a regular route following this pattern:
 
 ```js
 {

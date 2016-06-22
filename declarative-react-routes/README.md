@@ -1,7 +1,11 @@
 # Declarative React Routes
 
 This project demonstrates how to implement declarative routes in React applications where the list
-of routes can be represented in YAML or JSON format. For example: 
+of routes can be represented in YAML or JSON format. This patterns is used in [ASP.NET Core Starter
+Kit](https://github.com/kriasoft/aspnet-starter-kit) where the routes need to be compatible with
+both JavaScript and .NET environments.
+ 
+This list of routes may look like this: 
 
 ```yaml
 -
